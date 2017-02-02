@@ -1,0 +1,12 @@
+D:\ParseHTML\ParseHTML\bin\Debug\ParseHTML.exe.config
+D:\ParseHTML\ParseHTML\bin\Debug\ParseHTML.exe
+D:\ParseHTML\ParseHTML\bin\Debug\ParseHTML.pdb
+D:\ParseHTML\ParseHTML\obj\Debug\ParseHTML.exe
+D:\ParseHTML\ParseHTML\obj\Debug\ParseHTML.pdb
+D:\ParseHTML\ParseHTML\bin\Debug\HtmlAgilityPack.dll
+D:\ParseHTML\ParseHTML\bin\Debug\HtmlAgilityPack.pdb
+D:\ParseHTML\ParseHTML\bin\Debug\HtmlAgilityPack.xml
+D:\ParseHTML\ParseHTML\bin\Debug\ExcelPackage.dll
+D:\ParseHTML\ParseHTML\bin\Debug\ExcelPackage.pdb
+D:\ParseHTML\ParseHTML\obj\Debug\ParseHTML.csproj.ResolveComReference.cache
+D:\ParseHTML\ParseHTML\obj\Debug\ParseHTML.csprojResolveAssemblyReference.cache
